@@ -1,5 +1,6 @@
 
-# CS4824-ECE4424-Final-Project
+# [CS4824-ECE4424-Final-Project](https://github.com/gshin06/CS4824-ECE4424-Final-Project)
+
 > Our testing data was not included as it contained numerous private mac addresses. If needed, please contact us for the data.
 > Contributors: Daniel Shin (dshin26), Gabriel Shin (gshin06), Alex Lee (alexlee1017), Jack Timmins (jtimmins)
 ---
