@@ -1,3 +1,5 @@
+Our testing data was not included as it contained numerous private mac addresses. If needed, please contact us for the data.
+
 # CS4824-ECE4424-Final-Project
 ---
 # Introduction
