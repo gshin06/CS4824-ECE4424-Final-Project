@@ -34,14 +34,18 @@ Link to the presentation: https://docs.google.com/presentation/d/1WHO-mUINIKCGxO
 # Citations
 [1] T.-Z. Chen, Y.-Y. Chen, and J.-H. Lai, “Estimating Bus Cross-Sectional Flow Based on Machine Learning Algorithm Combined with Wi-Fi Probe Technology,” \textit{Sensors}, vol. 21, no. 3, p. 844, Jan. 2021, doi: https://doi.org/10.3390/s21030844.
 ‌
+
 BT archive
 [2] “Data Archive,” \textit{ridebt.org}. https://ridebt.org/data-archive (accessed Oct. 25, 2023).
 ‌
+
 Secondary wifi source if we use it. It has the real life trial.
 [3] U. Mehmood, I. Moser, P. P. Jayaraman, and A. Banerjee, “Occupancy Estimation using WiFi: A Case Study for Counting Passengers on Busses,” \textit{2019 IEEE 5th World Forum on Internet of Things (WF-IoT)}, Apr. 2019, doi: https://doi.org/10.1109/wf-iot.2019.8767350.
 ‌
+
 GIS Data
 [4] “Town of Blacksburg GIS Data,” \textit{sites.google.com}. https://sites.google.com/vt.edu/townofblacksburggisdata/home‌
+
 
 Weather data
 [5] “Blacksburg, VA Weather History | Weather Underground,” \textit{www.wunderground.com}. https://www.wunderground.com/history/daily/us/va/blacksburg (accessed Oct. 25, 2023).
