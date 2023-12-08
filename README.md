@@ -15,6 +15,7 @@ The purpose of our project was to replicate the experiment conducted by the pape
 # Data Collection
 
 # Data Preprocessing
+In terms of data preprocessing, the initial data was sent from the esp32 as a json file containing the time of the ping, the MAC address, the signal strength, and the number of probed devices. This had to be converted to the 8 features to be used during the machine learning process. This was done by breaking the data into 20 second chunks and then calculating the features from the data inside each chunk. This was then formatted into a numpy array along side another array for the labels and passed to each machine learning algorithm
 
 # Data Analysis
 After feeding our preprocessed data from the esp-32 into Random Forest, K-Nearest Neighbor (We cross validated KNN), and Support Vector Machines, we found very similar results to the paper. We similarly found that Random Forest has the highest accuracy of 90%. As for SVM and KNN, our implementation found an accuracy rate of 80% for both consistently between different runs. However, it is important to note that our KNN did not have the same best K value of 8. Our data found that a K value of 5 or higher had an erroneously high accuracy among our data. We believe that this is due to our relatively small sample size. Due to different limitations and time constraints, we were only able to collect about 20 minutes of driving data.
